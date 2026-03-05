@@ -1,0 +1,14 @@
+/Users/fabriciobettarello/Downloads/Jokempo-2026-main/Jokempo/bin/Debug/net10.0/Jokempo
+/Users/fabriciobettarello/Downloads/Jokempo-2026-main/Jokempo/bin/Debug/net10.0/Jokempo.deps.json
+/Users/fabriciobettarello/Downloads/Jokempo-2026-main/Jokempo/bin/Debug/net10.0/Jokempo.runtimeconfig.json
+/Users/fabriciobettarello/Downloads/Jokempo-2026-main/Jokempo/bin/Debug/net10.0/Jokempo.dll
+/Users/fabriciobettarello/Downloads/Jokempo-2026-main/Jokempo/bin/Debug/net10.0/Jokempo.pdb
+/Users/fabriciobettarello/Downloads/Jokempo-2026-main/Jokempo/obj/Debug/net10.0/Jokempo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fabriciobettarello/Downloads/Jokempo-2026-main/Jokempo/obj/Debug/net10.0/Jokempo.AssemblyInfoInputs.cache
+/Users/fabriciobettarello/Downloads/Jokempo-2026-main/Jokempo/obj/Debug/net10.0/Jokempo.AssemblyInfo.cs
+/Users/fabriciobettarello/Downloads/Jokempo-2026-main/Jokempo/obj/Debug/net10.0/Jokempo.csproj.CoreCompileInputs.cache
+/Users/fabriciobettarello/Downloads/Jokempo-2026-main/Jokempo/obj/Debug/net10.0/Jokempo.dll
+/Users/fabriciobettarello/Downloads/Jokempo-2026-main/Jokempo/obj/Debug/net10.0/refint/Jokempo.dll
+/Users/fabriciobettarello/Downloads/Jokempo-2026-main/Jokempo/obj/Debug/net10.0/Jokempo.pdb
+/Users/fabriciobettarello/Downloads/Jokempo-2026-main/Jokempo/obj/Debug/net10.0/Jokempo.genruntimeconfig.cache
+/Users/fabriciobettarello/Downloads/Jokempo-2026-main/Jokempo/obj/Debug/net10.0/ref/Jokempo.dll
